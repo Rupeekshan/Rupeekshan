@@ -132,24 +132,6 @@ philosophy: >
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rupeekshan/Rupeekshan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupeekshan/Rupeekshan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupeekshan/Rupeekshan/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Rupeekshan/Rupeekshan/output/github-snake.svg" width="100%" />
-</picture>
-
-<sub>3,400+ merged PRs · 3,400+ PR reviews · 25+ repositories. Most of it in private repos, so the graph is the visible part.</sub>
-
-</div>
-
----
-
 <div align="center">
 
 **"Building toward platforms that ship, heal and right-size themselves."**
