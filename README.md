@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1426,45:12355B,100:1E6FA8&height=200&section=header&text=Rupeekshan%20Maheswaran&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20MLOps%20%26amp%3B%20Predictive%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1426,45:12355B,100:1E6FA8&height=200&section=header&text=Rupeekshan%20Maheswaran&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%II%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20MLOps%20%26amp%3B%20Predictive%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -57,16 +57,16 @@ philosophy: >
 
 ## 🚀 What I've Worked On
 
-| | Work | What it does |
-|:---:|---|---|
-| 🤖 | **AI-assisted engineering workflows** | Automated cross-repo releases with AI-written release notes, and AI-assisted investigation of failing tests and broken environments |
-| 💰 | **Kubernetes cost engineering** | Right-sized EKS nodes, VPA and Spark scaling: **−55%** MLOps and **−31%** Feature Store spend |
-| ⚡ | **Faster, multi-arch CI** | BuildKit layer caching and ARM64 builds across the service fleet |
-| 🧪 | **On-demand preview environments** | A short-lived virtual Kubernetes cluster (vCluster) for every pull request |
-| ☸️ | **Helm umbrella charts** | One way to package and deploy services across teams, with KEDA scale-to-zero |
-| 🛠️ | **Skaffold dev loop** | One local Kubernetes dev workflow, adopted beyond my team |
-| 🛡️ | **Agentic CVE remediation** | When the pipeline flags a CVE, the AI agent identifies a potential fix and merges it based on the developer’s approval |
-| 🌐 | **Ingress modernization** | NGINX Ingress → HAProxy / Gateway API |
+| Work | What it does |
+|---|---|
+| **AI-assisted engineering workflows** | Automated cross-repo releases with AI-written release notes, and AI-assisted investigation of failing tests and broken environments |
+| **Kubernetes cost engineering** | Right-sized EKS nodes, VPA and Spark scaling: **−55%** MLOps and **−31%** Feature Store spend |
+| **Faster, multi-arch CI** | BuildKit layer caching and ARM64 builds across the service fleet |
+| **On-demand preview environments** | A short-lived virtual Kubernetes cluster (vCluster) for every pull request |
+| **Helm umbrella charts** | One way to package and deploy services across teams, with KEDA scale-to-zero |
+| **Skaffold dev loop** | One local Kubernetes dev workflow, adopted beyond my team |
+| **Agentic CVE remediation** | When the pipeline flags a CVE, the AI agent identifies a potential fix and merges it based on the developer’s approval |
+| **Ingress modernization** | NGINX Ingress → HAProxy / Gateway API |
 
 ---
 
